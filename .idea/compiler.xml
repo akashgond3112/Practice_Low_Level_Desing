@@ -15,6 +15,7 @@
         <module name="couponService" />
         <module name="EventCalendar" />
         <module name="FlightTrackingSystem" />
+        <module name="ElevatorDesign" />
         <module name="DistributedCache" />
         <module name="cricketMachDashBoard" />
         <module name="HitCounter" />
