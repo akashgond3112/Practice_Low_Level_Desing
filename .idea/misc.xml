@@ -15,6 +15,9 @@
         <option value="$PROJECT_DIR$/calculator/pom.xml" />
         <option value="$PROJECT_DIR$/bowlingAlleyMachine/pom.xml" />
         <option value="$PROJECT_DIR$/atmMachine/pom.xml" />
+        <option value="$PROJECT_DIR$/HitCounter/pom.xml" />
+        <option value="$PROJECT_DIR$/HotelManagmentSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/BookMyShow/pom.xml" />
       </list>
     </option>
   </component>
