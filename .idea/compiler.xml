@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="calculator" />
-        <module name="com.lld.bowling.alley.machine" />
         <module name="FoodKart" />
         <module name="fileDirectory" />
         <module name="HotelManagmentSystem" />
@@ -17,12 +16,17 @@
         <module name="FlightTrackingSystem" />
         <module name="ElevatorDesign" />
         <module name="DistributedCache" />
+        <module name="libraryManagementSystem" />
         <module name="cricketMachDashBoard" />
         <module name="HitCounter" />
         <module name="atm" />
         <module name="BookMyShow" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.lld.bowling.alley.machine" target="17" />
+      <module name="library.management.system" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

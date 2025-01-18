@@ -19,7 +19,13 @@
         <option value="$PROJECT_DIR$/HotelManagmentSystem/pom.xml" />
         <option value="$PROJECT_DIR$/BookMyShow/pom.xml" />
         <option value="$PROJECT_DIR$/ElevatorDesign/pom.xml" />
+        <option value="$PROJECT_DIR$/LibraryManagementSystem/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/bowlingAlleyMachine/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
