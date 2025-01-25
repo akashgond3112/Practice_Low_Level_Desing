@@ -1,7 +1,8 @@
 package com.flight.tracking.system;
 
-import java.time.Instant;
+import java.util.TimeZone;
 
-public class Time extends Location{
-    Instant time;
+public abstract class Location {
+    String city;
+    TimeZone timeZone;
 }
