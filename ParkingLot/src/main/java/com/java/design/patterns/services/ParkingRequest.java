@@ -1,8 +1,7 @@
 package com.java.design.patterns.services;
 
-import ParkingLot.domain.Parking.ParkingType;
-import ParkingLot.domain.Vehicle.Vehicle;
-
+import com.java.design.patterns.domain.Parking.ParkingType;
+import com.java.design.patterns.domain.Vehicle.Vehicle;
 import java.time.Instant;
 
 public class ParkingRequest {

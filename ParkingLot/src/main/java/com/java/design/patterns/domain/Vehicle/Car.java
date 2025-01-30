@@ -1,6 +1,7 @@
 package com.java.design.patterns.domain.Vehicle;
 
-import static ParkingLot.domain.Vehicle.VehicleSize.*;
+
+import static com.java.design.patterns.domain.Vehicle.VehicleSize.FOUR_VEHICLER_MEDIUM;
 
 public class Car extends Vehicle {
 

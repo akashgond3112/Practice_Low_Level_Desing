@@ -1,7 +1,8 @@
 package com.java.design.patterns.services;
 
-import ParkingLot.domain.Parking.ParkingLot;
-import ParkingLot.domain.Parking.ParkingSpot;
+
+import com.java.design.patterns.domain.Parking.ParkingLot;
+import com.java.design.patterns.domain.Parking.ParkingSpot;
 
 import java.util.List;
 
