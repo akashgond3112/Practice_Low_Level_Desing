@@ -27,6 +27,7 @@
     <bytecodeTargetLevel>
       <module name="com.lld.bowling.alley.machine" target="17" />
       <module name="library.management.system" target="17" />
+      <module name="multi.level.cache" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
