@@ -16,6 +16,7 @@
         <module name="FlightTrackingSystem" />
         <module name="ElevatorDesign" />
         <module name="DistributedCache" />
+        <module name="ParkingLot" />
         <module name="libraryManagementSystem" />
         <module name="cricketMachDashBoard" />
         <module name="HitCounter" />
