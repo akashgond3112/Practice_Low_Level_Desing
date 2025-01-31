@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="calculator" />
         <module name="FoodKart" />
+        <module name="multiLevelCache" />
         <module name="fileDirectory" />
         <module name="HotelManagmentSystem" />
         <module name="ElectoralSystem" />
@@ -21,6 +22,7 @@
         <module name="cricketMachDashBoard" />
         <module name="HitCounter" />
         <module name="atm" />
+        <module name="PropertyHuntApplication" />
         <module name="BookMyShow" />
       </profile>
     </annotationProcessing>
