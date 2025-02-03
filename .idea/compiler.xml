@@ -13,6 +13,7 @@
         <module name="HotelManagmentSystem" />
         <module name="ElectoralSystem" />
         <module name="couponService" />
+        <module name="RateLimiter" />
         <module name="EventCalendar" />
         <module name="FlightTrackingSystem" />
         <module name="ElevatorDesign" />
