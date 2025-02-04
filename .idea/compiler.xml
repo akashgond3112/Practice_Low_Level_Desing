@@ -22,6 +22,7 @@
         <module name="libraryManagementSystem" />
         <module name="cricketMachDashBoard" />
         <module name="HitCounter" />
+        <module name="UberMini" />
         <module name="atm" />
         <module name="PropertyHuntApplication" />
         <module name="BookMyShow" />

@@ -24,6 +24,8 @@
         <option value="$PROJECT_DIR$/ParkingLot/pom.xml" />
         <option value="$PROJECT_DIR$/PropertyHuntApplication/pom.xml" />
         <option value="$PROJECT_DIR$/RateLimiter/pom.xml" />
+        <option value="$PROJECT_DIR$/RideSharing/pom.xml" />
+        <option value="$PROJECT_DIR$/UberMini/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
