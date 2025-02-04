@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/MultiLevelCache/pom.xml" />
         <option value="$PROJECT_DIR$/ParkingLot/pom.xml" />
         <option value="$PROJECT_DIR$/PropertyHuntApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/RateLimiter/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
