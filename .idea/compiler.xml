@@ -11,6 +11,7 @@
         <module name="multiLevelCache" />
         <module name="fileDirectory" />
         <module name="HotelManagmentSystem" />
+        <module name="DriverAndRiderApplication" />
         <module name="ElectoralSystem" />
         <module name="couponService" />
         <module name="RateLimiter" />
