@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -11,6 +12,7 @@
         <module name="multiLevelCache" />
         <module name="fileDirectory" />
         <module name="HotelManagmentSystem" />
+        <module name="DriverAndRiderApplication" />
         <module name="ElectoralSystem" />
         <module name="couponService" />
         <module name="RateLimiter" />
@@ -22,8 +24,10 @@
         <module name="libraryManagementSystem" />
         <module name="cricketMachDashBoard" />
         <module name="HitCounter" />
+        <module name="UberMini" />
         <module name="atm" />
         <module name="PropertyHuntApplication" />
+        <module name="RideSharingApplication" />
         <module name="BookMyShow" />
       </profile>
     </annotationProcessing>
