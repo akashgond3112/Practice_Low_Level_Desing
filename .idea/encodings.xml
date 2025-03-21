@@ -18,6 +18,7 @@
     <file url="file://$PROJECT_DIR$/FlightTrackingSystem/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/FlightTrackingSystem/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/FoodKart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FoodKart/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HitCounter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HitCounter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HotelManagmentSystem/src/main/java" charset="UTF-8" />
@@ -38,11 +39,15 @@
     <file url="file://$PROJECT_DIR$/UberMini/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/atmMachine/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/atmMachine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bowlingMachine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bowlingMachine/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/calculator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/calculator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/couponService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/couponService/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cricketMachDashBoard/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cricketMachDashBoard/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>

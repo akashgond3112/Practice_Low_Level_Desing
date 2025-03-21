@@ -1,14 +1,14 @@
 package com.food.kart.foodkart.dao;
 
-import Exceptions.RestaurantAlreadyPresent;
-import Exceptions.RestaurantNotPresent;
+import com.food.kart.foodkart.exceptions.RestaurantAlreadyPresent;
+import com.food.kart.foodkart.exceptions.RestaurantNotPresent;
 import com.food.kart.foodkart.model.Restaurant;
-import model.Restaurant;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
 
 public class RestaurantDao {
     private static RestaurantDao restaurantDaoInstance;

@@ -1,6 +1,6 @@
 package com.library.management.system.account;
 
-class Address{
+public class Address{
 	Integer zipCode;
 	String streetName;
 	String line1;

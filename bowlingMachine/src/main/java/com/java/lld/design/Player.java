@@ -1,4 +1,5 @@
-package com.lld.design;
+package com.java.lld.design;
+
 
 import java.util.Collection;
 
