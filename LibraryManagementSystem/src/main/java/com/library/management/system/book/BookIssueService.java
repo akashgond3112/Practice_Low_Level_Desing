@@ -4,7 +4,7 @@ package com.library.management.system.book;
 import com.library.management.system.FineService;
 import com.library.management.system.SystemUser;
 
-class BookIssueService {
+public class BookIssueService {
 	FineService fineService;
 
 	public BookReservationDetails getReservationDetails(Book book) {

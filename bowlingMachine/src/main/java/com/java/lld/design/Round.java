@@ -1,4 +1,4 @@
-package com.lld.design;
+package com.java.lld.design;
 
 public class Round {
     private int chance1 = 0;

@@ -1,6 +1,7 @@
 package com.food.kart.foodkart.dao;
 
-import model.Order;
+
+import com.food.kart.foodkart.model.Order;
 
 import java.util.HashMap;
 

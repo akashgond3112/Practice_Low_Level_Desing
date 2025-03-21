@@ -3,7 +3,7 @@ package com.library.management.system.book;
 
 import com.library.management.system.Rack;
 
-class BookItem extends Book{
+public class BookItem extends Book{
 	Long uuid;
 	Rack rack;
 	BookGenre bookgenre;

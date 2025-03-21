@@ -7,7 +7,7 @@ import com.library.management.system.account.Author;
 import java.util.Date;
 import java.util.List;
 
-class Book{
+public class Book{
 	String title;
 	List<Author> authors;
 	Date publisedOn;
