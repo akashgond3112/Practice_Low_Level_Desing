@@ -39,6 +39,7 @@
         <module>RateLimiter</module>
         <module>RideSharingApplication</module>
         <module>UberMini</module>
+        <module>RuleMatcher</module>
     </modules>
 
     <properties>
