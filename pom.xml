@@ -40,6 +40,7 @@
         <module>RideSharingApplication</module>
         <module>UberMini</module>
         <module>RuleMatcher</module>
+        <module>Scheduler</module>
     </modules>
 
     <properties>

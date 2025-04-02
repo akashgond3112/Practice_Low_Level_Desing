@@ -7,30 +7,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="calculator" />
         <module name="FoodKart" />
-        <module name="rule_matcher" />
         <module name="multiLevelCache" />
         <module name="fileDirectory" />
+        <module name="ElectoralSystem" />
+        <module name="scheduler" />
+        <module name="DistributedCache" />
+        <module name="ParkingLot" />
+        <module name="libraryManagementSystem" />
+        <module name="HitCounter" />
+        <module name="atm" />
+        <module name="RideSharingApplication" />
+        <module name="BookMyShow" />
+        <module name="calculator" />
+        <module name="rule_matcher" />
         <module name="HotelManagmentSystem" />
         <module name="DriverAndRiderApplication" />
-        <module name="ElectoralSystem" />
         <module name="couponService" />
         <module name="RateLimiter" />
         <module name="EventCalendar" />
         <module name="FlightTrackingSystem" />
         <module name="ElevatorDesign" />
-        <module name="DistributedCache" />
-        <module name="ParkingLot" />
-        <module name="libraryManagementSystem" />
         <module name="cricketMachDashBoard" />
         <module name="bowlingMachine" />
-        <module name="HitCounter" />
         <module name="UberMini" />
-        <module name="atm" />
         <module name="PropertyHuntApplication" />
-        <module name="RideSharingApplication" />
-        <module name="BookMyShow" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -65,6 +66,7 @@
       <module name="multiLevelCache" options="-parameters --add-opens=jdk.compiler/com.sun.tools.javac.processing=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.code=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.comp=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.file=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.tree=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED" />
       <module name="practice_low_level_desing" options="-parameters --add-opens=jdk.compiler/com.sun.tools.javac.processing=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.code=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.comp=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.file=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.tree=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED" />
       <module name="rule_matcher" options="-parameters --add-opens=jdk.compiler/com.sun.tools.javac.processing=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.code=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.comp=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.file=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.tree=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED" />
+      <module name="scheduler" options="-parameters --add-opens=jdk.compiler/com.sun.tools.javac.processing=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.code=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.comp=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.file=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.tree=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED" />
     </option>
   </component>
 </project>
