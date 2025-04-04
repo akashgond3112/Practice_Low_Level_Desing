@@ -41,6 +41,7 @@
         <module>UberMini</module>
         <module>RuleMatcher</module>
         <module>Scheduler</module>
+        <module>SnakeLadderGame</module>
     </modules>
 
     <properties>
