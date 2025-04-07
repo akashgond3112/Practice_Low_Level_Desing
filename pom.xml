@@ -43,6 +43,7 @@
         <module>Scheduler</module>
         <module>SnakeLadderGame</module>
         <module>Splitwise</module>
+        <module>StockExchange</module>
     </modules>
 
     <properties>
