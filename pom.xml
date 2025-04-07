@@ -42,6 +42,7 @@
         <module>RuleMatcher</module>
         <module>Scheduler</module>
         <module>SnakeLadderGame</module>
+        <module>Splitwise</module>
     </modules>
 
     <properties>
