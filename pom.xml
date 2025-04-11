@@ -44,6 +44,7 @@
         <module>SnakeLadderGame</module>
         <module>Splitwise</module>
         <module>StockExchange</module>
+        <module>TrueCaller</module>
     </modules>
 
     <properties>
