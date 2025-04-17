@@ -46,6 +46,7 @@
         <module>StockExchange</module>
         <module>TrueCaller</module>
         <module>vacuumCleaner</module>
+        <module>trello</module>
     </modules>
 
     <properties>
