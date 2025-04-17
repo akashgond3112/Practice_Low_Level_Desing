@@ -30,6 +30,7 @@
         <option value="$PROJECT_DIR$/RideSharingApplication/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/RuleMatcher/pom.xml" />
+        <option value="$PROJECT_DIR$/vacuumCleaner/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
