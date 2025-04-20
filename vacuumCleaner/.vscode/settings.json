@@ -1,0 +1,16 @@
+{
+    "java.templates.fileHeader": [
+        "/**",
+        " * @author ${user}",
+        " * @date ${date}",
+        " * @time ${time}",
+        " */"
+    ],
+    "java.templates.typeComment": [
+        "/**",
+        " * @author ${user}",
+        " * @date ${date}",
+        " * @time ${time}",
+        " */"
+    ]
+}
